@@ -154,7 +154,7 @@ PORT=5000
 ![Salary Insights](Screenshot%202026-06-27%20220218.png)
 
 ### 🛠️ Developer Environment & Logs
-![Environment Logs](Screenshot%202026-06-27%20220403.png)
+![Environment Logs](image/Screenshot 2026-06-27 220218.png)
 
 ---
 
