@@ -46,9 +46,9 @@ assets/dashboard.png
 
 Then uncomment the line below:
 
-```md
-![NextPath AI Dashboard](assets/dashboard.png)
-```
+
+![NextPath AI Dashboard](image/Screenshot%202026-06-27%20220403.png)
+
 
 ---
 
