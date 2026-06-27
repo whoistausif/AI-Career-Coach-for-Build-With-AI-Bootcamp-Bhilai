@@ -136,6 +136,27 @@ PORT=5000
 ```
 
 ---
+## 📸 Interface Preview
+
+### 🖥️ Main Dashboard
+![NextPath AI Dashboard](Screenshot%202026-06-27%20220342.png)
+
+### 🤖 AI Coach Chat
+![AI Coach Chat](image_8dffe4.png)
+
+### 💻 Coding Practice
+![Coding Practice](Screenshot%202026-06-27%20220256.png)
+
+### 🎤 Mock Interview
+![Mock Interview](Screenshot%202026-06-27%20220315.png)
+
+### 💰 Salary Insights
+![Salary Insights](Screenshot%202026-06-27%20220218.png)
+
+### 🛠️ Developer Environment & Logs
+![Environment Logs](Screenshot%202026-06-27%20220403.png)
+
+---
 
 ## 🚀 Deployment
 
