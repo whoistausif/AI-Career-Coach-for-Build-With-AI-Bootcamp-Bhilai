@@ -1,137 +1,76 @@
-# 🚀 AI Career Coach - Build With AI Bootcamp Bhilai
+# 🚀 NextPath AI
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18-blue?logo=react">
   <img src="https://img.shields.io/badge/Node.js-Express-green?logo=node.js">
   <img src="https://img.shields.io/badge/Google-Gemini%20API-4285F4?logo=google">
   <img src="https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker">
+  <img src="https://img.shields.io/badge/Build%20With%20AI-Google-blue">
   <img src="https://img.shields.io/badge/License-MIT-yellow">
 </p>
 
-> 🎓 AI-powered Career Development Platform built for the **Google Build With AI Bootcamp – Bhilai**.
+> **NextPath AI** is an AI-powered career guidance platform that helps students and professionals plan, build, and accelerate their careers using the power of **Google Gemini AI**.
 
 ---
 
-# 📌 Overview
+## 🌟 Overview
 
-AI Career Coach is a full-stack AI-powered web application that helps students and professionals improve their careers using Google Gemini AI.
+NextPath AI is a full-stack AI Career Coach developed as part of the **Google Build With AI Bootcamp – Bhilai**.
 
-The platform provides intelligent career guidance including:
+It provides personalized career guidance, resume evaluation, interview preparation, learning plans, and AI-powered career assistance through a modern dashboard.
 
-* 📄 Resume Analysis
-* 🗺 Career Roadmap Generation
-* 💼 Cover Letter Generator
+---
+
+## ✨ Features
+
+* 📄 AI Resume Analysis
+* 🛣️ Personalized Career Roadmap
+* 💼 AI Cover Letter Generator
 * 💡 LinkedIn Headline Optimizer
 * 🎯 Skill Gap Analysis
-* 📅 Daily Learning Plan
+* 📅 Daily Learning Planner
 * 🎤 AI Mock Interview
 * 💻 Coding Practice
 * 💰 Salary Insights
-* 🤖 AI Career Chat Assistant
+* 🤖 Gemini AI Career Chat Assistant
 
 ---
 
-# 🖥 Dashboard
+## 🖥️ Dashboard
 
-> Replace the path below after uploading your screenshot to the repository.
+> Upload your dashboard screenshot to the repository as:
+
+```text
+assets/dashboard.png
+```
+
+Then uncomment the line below:
 
 ```md
-![Dashboard](./assets/dashboard.png)
+![NextPath AI Dashboard](assets/dashboard.png)
 ```
 
 ---
 
-# ✨ Features
+## 🛠️ Tech Stack
 
-## 📄 Resume Analysis
-
-* Upload Resume
-* AI Resume Review
-* Resume Score
-* Suggestions for Improvement
-* ATS Optimization
-
-## 🗺 Career Roadmap
-
-* Personalized Career Roadmap
-* Required Skills
-* Learning Path
-* Timeline Generator
-
-## 💼 Cover Letter Generator
-
-* AI Generated Cover Letters
-* Company Specific Letters
-* Editable Output
-
-## 💡 LinkedIn Headline Generator
-
-* Professional Headlines
-* Summary Generator
-* Profile Optimization
-
-## 🎯 Skill Gap Analysis
-
-* Compare Current Skills
-* Identify Missing Skills
-* AI Recommendations
-
-## 📅 Daily Learning Planner
-
-* Personalized Learning Tasks
-* Daily Progress
-* Goal Tracking
-
-## 🎤 AI Mock Interview
-
-* Technical Questions
-* HR Questions
-* Instant Feedback
-
-## 💻 Coding Practice
-
-* Coding Challenges
-* Programming Exercises
-* Interview Preparation
-
-## 💰 Salary Insights
-
-* Salary Estimation
-* Industry Trends
-* Career Comparison
-
-## 🤖 AI Coach Chat
-
-* Google Gemini Powered
-* Career Advice
-* Learning Guidance
-* Resume Help
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
+### Frontend
 
 * React.js
 * Vite
-* CSS
+* CSS3
 * JavaScript
 
-## Backend
+### Backend
 
 * Node.js
 * Express.js
 
-## AI
+### AI
 
 * Google Gemini API
 
-## Database
-
-* JSON / Local Storage
-
-## Deployment
+### Deployment
 
 * Docker
 * Render
@@ -139,10 +78,10 @@ The platform provides intelligent career guidance including:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
-AI-Career-Coach/
+NextPath-AI/
 │
 ├── backend/
 │   ├── src/
@@ -160,15 +99,15 @@ AI-Career-Coach/
 
 ---
 
-# ⚙ Installation
+## ⚙️ Installation
 
-Clone Repository
+Clone the repository
 
 ```bash
 git clone https://github.com/whoistausif/AI-Career-Coach-for-Build-With-AI-Bootcamp-Bhilai.git
 ```
 
-Backend
+Install Backend
 
 ```bash
 cd backend
@@ -176,7 +115,7 @@ npm install
 npm start
 ```
 
-Frontend
+Install Frontend
 
 ```bash
 cd frontend
@@ -186,7 +125,7 @@ npm run dev
 
 ---
 
-# 🔑 Environment Variables
+## 🔑 Environment Variables
 
 Create a `.env` file inside the backend folder.
 
@@ -198,17 +137,17 @@ PORT=5000
 
 ---
 
-# 🚀 Deployment
+## 🚀 Deployment
 
-Backend
+### Backend
 
 * Render
 
-Frontend
+### Frontend
 
 * Vercel
 
-Docker
+### Docker
 
 ```bash
 docker compose up --build
@@ -216,38 +155,31 @@ docker compose up --build
 
 ---
 
-# 🎯 Future Improvements
+## 🎯 Future Enhancements
 
-* Authentication
-* User Profiles
-* MongoDB Integration
-* AI Resume Builder
-* AI Job Recommendation
+* Authentication & User Profiles
 * Resume PDF Export
+* Job Recommendation Engine
+* Internship Finder
+* Learning Progress Analytics
 * Multi-language Support
 * Admin Dashboard
+* AI Resume Builder
 
 ---
 
-# 👨‍💻 Developer
+## 👨‍💻 Developer
 
 **Mohammad Tausif**
 
-BCA Graduate | MCA (AI & ML)
+🎓 MCA (AI & ML) | AI Developer | Full Stack Developer
 
-AI / Machine Learning Enthusiast
-
-GitHub
-
-https://github.com/whoistausif
-
-LinkedIn
-
-https://www.linkedin.com/in/mohammadtausif07/
+* GitHub: https://github.com/whoistausif
+* LinkedIn: https://www.linkedin.com/in/mohammadtausif07/
 
 ---
 
-# 🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 * Google Build With AI Bootcamp
 * Google Gemini API
@@ -258,4 +190,6 @@ https://www.linkedin.com/in/mohammadtausif07/
 
 ---
 
-## ⭐ If you like this project, don't forget to Star the repository!
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub. It helps others discover the project and motivates future improvements.
